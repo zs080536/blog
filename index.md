@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+有关更多详细信息，请参阅基本书写和格式化语法。(https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll 主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zs080536/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的 Pages 站点将使用您在存储库设置中选择的 Jekyll 主题的布局和样式。这个主题的名称保存在 Jekyll_config.yml配置文件中。
 
-### Support or Contact
+### 支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+页面有问题？查看我们的文档或联系支持人员，我们将帮助您解决问题。
